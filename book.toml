@@ -1,0 +1,5 @@
+[book]
+authors = ["AcKing-Sam"]
+language = "en"
+src = "src"
+title = "CS Notes"
