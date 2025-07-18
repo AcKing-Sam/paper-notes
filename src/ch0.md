@@ -1,0 +1,1 @@
+In this paper notes, I want to record all comprehensive papers I have read about database-related topics (i.e., vector databse and LLM, ...), which were or going to be published on top database conferences (i.e., SIGMOD, VLDB and ICDE).
