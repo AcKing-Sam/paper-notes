@@ -1,1 +1,1 @@
-# Vector DB
+# Vector Database
