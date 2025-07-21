@@ -13,7 +13,7 @@ git add .
 echo "==> git commit -m \"$comment\""
 git commit -m "$comment"
 
-echo "==> git push"
+echo "==> git push origin main"
 git push
 
 echo "已完成 git 提交和推送"
