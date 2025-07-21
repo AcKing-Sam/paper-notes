@@ -1,5 +1,3 @@
-# Summary
-
 ## Categories of High-dimensional Vectors
 
 ### Dense / Sparse
